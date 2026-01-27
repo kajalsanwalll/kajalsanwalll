@@ -22,10 +22,8 @@ Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software eng
 
 ---
 
-## Connect with Me
- <p align="center">
-  <img src="https://camo.githubusercontent.com/ceff3678dd31431fa233ced1ac99c9851fb7a8ce4ef0c04c6f2ecfd3a9b5315d/68747470733a2f2f63646e332e656d6f6a692e67672f656d6f6a69732f333935382d636f6d70757465722e676966" width="60" />
-</p>
+##  Connect with Me   <img src="https://camo.githubusercontent.com/ceff3678dd31431fa233ced1ac99c9851fb7a8ce4ef0c04c6f2ecfd3a9b5315d/68747470733a2f2f63646e332e656d6f6a692e67672f656d6f6a69732f333935382d636f6d70757465722e676966" width="30" />
+
 
 - LinkedIn: https://www.linkedin.com/in/kajalsanwall/ 
-- Email: kajalsanwal777@gmail.com  
+- Email: kajalsanwal777@gmail.com   
