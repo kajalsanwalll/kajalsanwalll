@@ -1,16 +1,32 @@
-## Hi there 👋
+# About Me
 
-<!--
-**kajalsanwalll/kajalsanwalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Kajal**, an undergraduate student at **IIT Madras** with a strong interest in software engineering and systems-oriented problem solving.  
+My academic background in **Electrical/Electronics Engineering** has trained me to think rigorously, while my project work focuses on building practical, well-structured software systems.
 
-Here are some ideas to get you started:
+I enjoy working at the intersection of **core engineering concepts and modern software development**, and I’m particularly interested in roles that require strong fundamentals, clean design, and scalability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Academic & Technical Interests
+
+- Data Structures and Algorithms  
+- Full-stack development  
+- System design and backend engineering  
+- Applied problem-solving using programming  
+
+---
+
+## Tech Stack
+
+**Languages**  
+C++, Python, JavaScript, SQL  
+
+**Frontend**  
+React, HTML, CSS, Tailwind CSS  
+
+**Backend & Databases**  
+Node.js, Express, MongoDB  
+
+**Tools & Platforms**  
+Git, GitHub, Vercel, NPM, VS Code
+
