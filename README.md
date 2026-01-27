@@ -1,32 +1,30 @@
 # About Me
 
 Hi, I'm **Kajal**, an undergraduate student at **IIT Madras** with a strong interest in software engineering and systems-oriented problem solving.  
-My academic background in **Electrical/Electronics Engineering** has trained me to think rigorously, while my project work focuses on building practical, well-structured software systems.
+My background in **Electrical/Electronics Engineering** has shaped a structured, fundamentals-first approach to building reliable and scalable software.
 
-I enjoy working at the intersection of **core engineering concepts and modern software development**, and I’m particularly interested in roles that require strong fundamentals, clean design, and scalability.
+I am particularly interested in **backend engineering, data structures and algorithms, and system design**, and I enjoy translating theory into practical implementations.
 
 ---
 
-## Academic & Technical Interests
+## Technical Interests
 
 - Data Structures and Algorithms  
-- Full-stack development  
-- System design and backend engineering  
-- Applied problem-solving using programming  
+- Backend and full-stack development  
+- System design and scalable architectures  
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-C++, Python, JavaScript, SQL  
+**Languages:** C++, Python, JavaScript, SQL  
+**Frontend:** React, HTML, CSS, Tailwind CSS  
+**Backend & Databases:** Node.js, Express, MongoDB, Next.js  
+**Tools & Platforms:** Git, GitHub, Vercel, VS Code, NPM  
 
-**Frontend**  
-React, HTML, CSS, Tailwind CSS  
+---
 
-**Backend & Databases**  
-Node.js, Express, MongoDB  
+## Connect with Me
 
-**Tools & Platforms**  
-Git, GitHub, Vercel, NPM, VS Code
-
+- LinkedIn: https://www.linkedin.com/in/kajalsanwall/ 
+- Email: kajalsanwal777@gmail.com  
