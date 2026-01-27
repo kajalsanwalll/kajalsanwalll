@@ -1,4 +1,5 @@
 # About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+whimsical+nerd+)](https://git.io/typing-svg)
 
 Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software engineering and systems-oriented problem solving, with a strong focus on **backend development, DSA, and system design**.
 
