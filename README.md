@@ -1,9 +1,6 @@
 # About Me
 
-Hi, I'm **Kajal**, an undergraduate student at **IIT Madras** with a strong interest in software engineering and systems-oriented problem solving.  
-My background in **Electrical/Electronics Engineering** has shaped a structured, fundamentals-first approach to building reliable and scalable software.
-
-I am particularly interested in **backend engineering, data structures and algorithms, and system design**, and I enjoy translating theory into practical implementations.
+Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software engineering and systems-oriented problem solving, with a strong focus on **backend development, DSA, and system design**.
 
 ---
 
