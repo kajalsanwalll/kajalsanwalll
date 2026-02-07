@@ -7,18 +7,25 @@ Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software eng
 
 ## Technical Interests   
 
-- Data Structures and Algorithms  
-- Backend and full-stack development  
-- System design and scalable architectures  
+* Data Structures & Algorithms (problem-solving + optimization)    
+* Backend & Full-stack Development   
+* System Design & Scalable Architectures   
+* API design & integrations   
+* Database design & performance     
+* Cloud-native development basics     
+* Developer tooling & workflows   
+* SaaS architecture   
 
 ---
 
 ## Tech Stack
 
 **Languages:** C++, Python, JavaScript, SQL  
-**Frontend:** React, HTML, CSS, Tailwind CSS  
-**Backend & Databases:** Node.js, Express, MongoDB, Next.js  
-**Tools & Platforms:** Git, GitHub, Vercel, VS Code, NPM  
+**Frontend:** React, HTML, CSS, Tailwind CSS, Next.js (App Router), shadcn/ui    
+**Backend & Databases:** Node.js, Express, Next.js, REST APIs, Authentication & Authorization (Clerk / JWT basics)    
+**Databases & ORMs:** MongoDB, PostgreSQL (Neon), Prisma ORM (v5 and v7), Database schema design      
+**DevOps / Platforms:** Git & GitHub, Vercel, Environment variables & deployment pipelines, CI/CD basics           
+**Tools & Platforms:** Cloudinary, Postman, Mailtrap, VS Code, NPM  
 
 ---
 
@@ -28,5 +35,5 @@ Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software eng
 - LinkedIn: https://www.linkedin.com/in/kajalsanwall/ 
 - Email: kajalsanwal777@gmail.com
 
-- ![GitHub Streak](https://streak-stats.demolab.com/?user=kajalsanwalll&theme=default&hide_border=false)
+- ![GitHub Streak](https://streak-stats.demolab.com/?user=kajalsanwalll&theme=default&hide_border=false )
 
