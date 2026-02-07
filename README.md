@@ -26,4 +26,7 @@ Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software eng
 
 
 - LinkedIn: https://www.linkedin.com/in/kajalsanwall/ 
-- Email: kajalsanwal777@gmail.com   
+- Email: kajalsanwal777@gmail.com
+
+- ![GitHub Streak](https://streak-stats.demolab.com/?user=kajalsanwalll&theme=default&hide_border=false)
+
