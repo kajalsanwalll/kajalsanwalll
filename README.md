@@ -36,5 +36,5 @@ Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software eng
 - Email: kajalsanwal777@gmail.com
 
 - ![GitHub Streak](https://streak-stats.demolab.com/?user=kajalsanwalll&theme=default&hide_border=false )
-- ![Profile Views](https://komarev.com/ghpvc/?username=kajalsanwalll&label=Profile%20views&color=0e75b6&style=flat)
+- ![Profile Views](https://komarev.com/ghpvc/?username=kajalsanwalll&label=Profile%20views&color=0e75b6&style=flat)  (since 24 Feb 2026)
 
