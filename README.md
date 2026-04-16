@@ -34,7 +34,7 @@ Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software eng
 
 - LinkedIn: https://www.linkedin.com/in/kajalsanwall/ 
 - Email: kajalsanwal777@gmail.com
-- Portfolio: [link](https://portfolio-seven-red-50.vercel.app)
+- Portfolio: [link](https://portfolio-4kgimqk6y-kajal-sanwals-projects.vercel.app)
 - Codolio Profile: [link](https://codolio.com/profile/kajalsanwall/devStats)
 
 - ![GitHub Streak](https://streak-stats.demolab.com/?user=kajalsanwalll&theme=default&hide_border=false )
