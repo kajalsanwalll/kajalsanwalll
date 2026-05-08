@@ -9,7 +9,6 @@ Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software eng
 
 * Data Structures & Algorithms (problem-solving + optimization)    
 * Backend & Full-stack Development   
-* System Design & Scalable Architectures   
 * API design & integrations   
 * Database design & performance     
 * Cloud-native development basics     
