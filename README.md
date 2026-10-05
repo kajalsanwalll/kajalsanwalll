@@ -6,9 +6,9 @@ Hi, I'm **Kajal**, an undergraduate at **IIT Madras** interested in software eng
 
 ## Tech Stack
 
-**Languages:** C++, JavaScript, SQL  
-**Frontend:** React, HTML, CSS, Tailwind CSS, Next.js (App Router), shadcn/ui    
-**Backend & Databases:** Node.js, Express, Next.js, REST APIs, Authentication & Authorization (Clerk / JWT basics)    
+**Languages:** C, C++, JavaScript, SQL, Python  
+**Frontend:** React, HTML, Tailwind CSS, Next.js (App Router), shadcn/ui    
+**Backend & Databases:** Node.js, Express, Fastify, Next.js, REST APIs, Authentication & Authorization (Clerk / JWT basics)    
 **Databases & ORMs:** MongoDB, PostgreSQL (Neon), Prisma ORM (v5 and v7), Database schema design      
 **DevOps / Platforms:** Git & GitHub, Vercel, Environment variables & deployment pipelines           
 **Tools & Platforms:** Cloudinary, Postman, Mailtrap, VS Code, NPM  
